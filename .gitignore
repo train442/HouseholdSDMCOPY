@@ -1,0 +1,19 @@
+# Large / regenerable data -- kept on disk locally, never committed.
+# Raw ResStock download staging (wizard step 1); model only reads Processed/.
+Raw Data Files/
+City Data/Load Profiles/Unprocessed/
+
+# ResStock building index: ~72 MB simplified (1.5 GB raw), regenerable via
+# Scripts/ResStock Loads/filter_metadata_loads.py. The Data Import Wizard
+# requires this file at this exact path locally -- keep it, just untracked.
+Archive/DataFiles/baseline_metadata_and_annual_results_simp.csv
+
+# NSRDB / WattTime / OpenEI credentials (personal API keys)
+nsrdb_credentials.json
+wattime_credentials.json
+openei_credentials.json
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store

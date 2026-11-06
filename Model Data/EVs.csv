@@ -1,0 +1,39 @@
+﻿Year,Make,Model,Trim,MSRP,MPGe Hwy,MPGe City,MPGe Comb,Battery Size (kWh),Lvl2 Charge Rate (kW)
+2021,Ford,Mustang Mach-E,Select RWD,"$43,995.00 ",93,105,100,68,10.5
+2021,Ford,Mustang Mach-E,Premium RWD,"$48,700.00 ",93,105,100,68,10.5
+2021,Ford,Mustang Mach-E,California Route 1 RWD,"$51,500.00 ",94,108,101,88,10.5
+2021,Ford,Mustang Mach-E,Select AWD,"$46,695.00 ",86,100,93,68,10.5
+2021,Ford,Mustang Mach-E,Premium AWD,"$51,400.00 ",96,100,93,68,10.5
+2021,Ford,Mustang Mach-E,GT AWD,"$61,000.00 ",77,90,77,88,10.5
+2022,Ford,Mustang Mach-E,Select RWD,"$44,995.00 ",96,110,103,70,10.5
+2022,Ford,Mustang Mach-E,Premium RWD,"$49,875.00 ",96,110,103,70,10.5
+2022,Ford,Mustang Mach-E,California Route 1 RWD,"$53,550.00 ",94,108,101,91,10.5
+2022,Ford,Mustang Mach-E,Select AWD,"$47,695.00 ",86,99,93,70,10.5
+2022,Ford,Mustang Mach-E,Premium AWD,"$52,575.00 ",86,99,93,70,10.5
+2022,Ford,Mustang Mach-E,California Route 1 AWD,"$56,250.00 ",91,105,98,91,10.5
+2022,Ford,Mustang Mach-E,GT AWD,"$63,095.00 ",77,90,84,91,10.5
+2022,Ford,F-150 Lightning,Pro 4WD SuperCrew,"$41,769.00 ",61,76,69,98,11.3
+2022,Ford,F-150 Lightning,XLT 4WD SuperCrew,"$54,769.00 ",61,76,69,98,11.3
+2022,Ford,F-150 Lightning,LARIAT 4WD SuperCrew,"$69,269.00 ",61,76,69,98,11.3
+2022,Ford,F-150 Lightning,Platinum 4WD SuperCrew,"$92,669.00 ",60,73,67,131,11.3
+2022,Ford,E-Transit,Basic, a lot ,60,65,63,68,11.3
+2023,Ford,F-150 Lightning,Pro 4WD SuperCrew,"$59,974.00 ",61,76,69,98,11.3
+2023,Ford,F-150 Lightning,XLT 4WD SuperCrew,"$64,474.00 ",61,76,69,98,11.3
+2023,Ford,F-150 Lightning,LARIAT 4WD SuperCrew,"$76,974.00 ",61,76,69,98,11.3
+2023,Ford,F-150 Lightning,Platinum 4WD SuperCrew,"$98,074.00 ",60,73,67,131,11.3
+2023,Ford,Mustang Mach-E,Select RWD,"$42,995.00 ",96,110,103,70,10.5
+2023,Ford,Mustang Mach-E,Select AWD,"$45,995.00 ",86,99,93,70,10.5
+2023,Ford,Mustang Mach-E,Premium RWD,"$46,995.00 ",96,110,103,70,10.5
+2023,Ford,Mustang Mach-E,Premium AWD,"$49,995.00 ",86,99,93,70,10.5
+2023,Ford,Mustang Mach-E,California Route 1 AWD,"$56,995.00 ",91,105,98,91,10.5
+2023,Ford,Mustang Mach-E,GT AWD,"$59,995.00 ",77,90,84,91,10.5
+2023,Ford,Mustang Mach-E,GT Performance AWD,"$64,995.00 ",77,90,84,91,10.5
+2026,Ford,Mustang Mach-E,Select RWD," $37,795.00 ",103,111,107,73,11
+2026,Ford,Mustang Mach-E,Select AWD," $40,795.00 ",96,104,100,73,11
+2026,Ford,Mustang Mach-E,Select AWD Extended," $46,045.00 ",98,110,104,88,11
+2026,Ford,Mustang Mach-E,Premium RWD," $40,595.00 ",103,111,107,73,11
+2026,Ford,Mustang Mach-E,Premium RWD Extended," $45,345.00 ",104,115,110,88,11
+2026,Ford,Mustang Mach-E,Premium AWD," $43,595.00 ",96,104,100,73,11
+2026,Ford,Mustang Mach-E,Premium AWD Extended," $48,345.00 ",98,110,104,88,11
+2026,Ford,Mustang Mach-E,GT AWD," $53,395.00 ",85,95,90,91,11
+2026,Ford,Mustang Mach-E,Rally AWD," $57,690.00 ",78,89,84,91,11
